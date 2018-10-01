@@ -1,0 +1,500 @@
+fileFormatVersion: 2
+guid: 49235cc0b6958cd41a8693672739ee3e
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box002
+    100004: Box003
+    100006: Box004
+    100008: Box005
+    100010: Box006
+    100012: Box007
+    100014: Box008
+    100016: Box009
+    100018: Box010
+    100020: Box011
+    100022: Box012
+    100024: Box013
+    100026: Cylinder001
+    100028: Cylinder002
+    100030: Cylinder003
+    100032: Cylinder004
+    100034: Cylinder005
+    100036: Cylinder006
+    100038: Cylinder007
+    100040: Cylinder008
+    100042: Cylinder009
+    100044: Cylinder010
+    100046: Cylinder011
+    100048: Cylinder012
+    100050: Cylinder013
+    100052: Cylinder014
+    100054: Cylinder015
+    100056: Cylinder016
+    100058: Cylinder017
+    100060: Cylinder018
+    100062: Cylinder019
+    100064: Cylinder020
+    100066: Cylinder021
+    100068: Cylinder022
+    100070: Cylinder023
+    100072: Cylinder024
+    100074: Cylinder025
+    100076: Cylinder026
+    100078: Cylinder027
+    100080: Cylinder028
+    100082: Cylinder029
+    100084: Cylinder030
+    100086: Cylinder031
+    100088: Cylinder032
+    100090: Cylinder033
+    100092: Cylinder034
+    100094: Cylinder035
+    100096: Cylinder036
+    100098: Cylinder037
+    100100: Cylinder038
+    100102: Cylinder039
+    100104: Cylinder040
+    100106: //RootNode
+    100108: door
+    100110: hinge
+    100112: hinge001
+    400000: Box001
+    400002: Box002
+    400004: Box003
+    400006: Box004
+    400008: Box005
+    400010: Box006
+    400012: Box007
+    400014: Box008
+    400016: Box009
+    400018: Box010
+    400020: Box011
+    400022: Box012
+    400024: Box013
+    400026: Cylinder001
+    400028: Cylinder002
+    400030: Cylinder003
+    400032: Cylinder004
+    400034: Cylinder005
+    400036: Cylinder006
+    400038: Cylinder007
+    400040: Cylinder008
+    400042: Cylinder009
+    400044: Cylinder010
+    400046: Cylinder011
+    400048: Cylinder012
+    400050: Cylinder013
+    400052: Cylinder014
+    400054: Cylinder015
+    400056: Cylinder016
+    400058: Cylinder017
+    400060: Cylinder018
+    400062: Cylinder019
+    400064: Cylinder020
+    400066: Cylinder021
+    400068: Cylinder022
+    400070: Cylinder023
+    400072: Cylinder024
+    400074: Cylinder025
+    400076: Cylinder026
+    400078: Cylinder027
+    400080: Cylinder028
+    400082: Cylinder029
+    400084: Cylinder030
+    400086: Cylinder031
+    400088: Cylinder032
+    400090: Cylinder033
+    400092: Cylinder034
+    400094: Cylinder035
+    400096: Cylinder036
+    400098: Cylinder037
+    400100: Cylinder038
+    400102: Cylinder039
+    400104: Cylinder040
+    400106: door
+    400108: //RootNode
+    400110: hinge
+    400112: hinge001
+    2100000: No Name
+    2100002: dark metal
+    2100004: light metal
+    2100006: lighter wood planks
+    2100008: darker wood planks
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box004
+    2300008: Box005
+    2300010: Box006
+    2300012: Box007
+    2300014: Box008
+    2300016: Box009
+    2300018: Box010
+    2300020: Box011
+    2300022: Box012
+    2300024: Box013
+    2300026: Cylinder001
+    2300028: Cylinder002
+    2300030: Cylinder003
+    2300032: Cylinder004
+    2300034: Cylinder005
+    2300036: Cylinder006
+    2300038: Cylinder007
+    2300040: Cylinder008
+    2300042: Cylinder009
+    2300044: Cylinder010
+    2300046: Cylinder011
+    2300048: Cylinder012
+    2300050: Cylinder013
+    2300052: Cylinder014
+    2300054: Cylinder015
+    2300056: Cylinder016
+    2300058: Cylinder017
+    2300060: Cylinder018
+    2300062: Cylinder019
+    2300064: Cylinder020
+    2300066: Cylinder021
+    2300068: Cylinder022
+    2300070: Cylinder023
+    2300072: Cylinder024
+    2300074: Cylinder025
+    2300076: Cylinder026
+    2300078: Cylinder027
+    2300080: Cylinder028
+    2300082: Cylinder029
+    2300084: Cylinder030
+    2300086: Cylinder031
+    2300088: Cylinder032
+    2300090: Cylinder033
+    2300092: Cylinder034
+    2300094: Cylinder035
+    2300096: Cylinder036
+    2300098: Cylinder037
+    2300100: Cylinder038
+    2300102: Cylinder039
+    2300104: Cylinder040
+    2300106: hinge
+    2300108: hinge001
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box004
+    3300008: Box005
+    3300010: Box006
+    3300012: Box007
+    3300014: Box008
+    3300016: Box009
+    3300018: Box010
+    3300020: Box011
+    3300022: Box012
+    3300024: Box013
+    3300026: Cylinder001
+    3300028: Cylinder002
+    3300030: Cylinder003
+    3300032: Cylinder004
+    3300034: Cylinder005
+    3300036: Cylinder006
+    3300038: Cylinder007
+    3300040: Cylinder008
+    3300042: Cylinder009
+    3300044: Cylinder010
+    3300046: Cylinder011
+    3300048: Cylinder012
+    3300050: Cylinder013
+    3300052: Cylinder014
+    3300054: Cylinder015
+    3300056: Cylinder016
+    3300058: Cylinder017
+    3300060: Cylinder018
+    3300062: Cylinder019
+    3300064: Cylinder020
+    3300066: Cylinder021
+    3300068: Cylinder022
+    3300070: Cylinder023
+    3300072: Cylinder024
+    3300074: Cylinder025
+    3300076: Cylinder026
+    3300078: Cylinder027
+    3300080: Cylinder028
+    3300082: Cylinder029
+    3300084: Cylinder030
+    3300086: Cylinder031
+    3300088: Cylinder032
+    3300090: Cylinder033
+    3300092: Cylinder034
+    3300094: Cylinder035
+    3300096: Cylinder036
+    3300098: Cylinder037
+    3300100: Cylinder038
+    3300102: Cylinder039
+    3300104: Cylinder040
+    3300106: hinge
+    3300108: hinge001
+    4300000: Box011
+    4300002: Box012
+    4300004: Box013
+    4300006: hinge001
+    4300008: hinge
+    4300010: Cylinder040
+    4300012: Cylinder039
+    4300014: Cylinder038
+    4300016: Cylinder037
+    4300018: Cylinder036
+    4300020: Cylinder035
+    4300022: Cylinder034
+    4300024: Cylinder033
+    4300026: Cylinder032
+    4300028: Cylinder031
+    4300030: Cylinder030
+    4300032: Cylinder029
+    4300034: Cylinder028
+    4300036: Cylinder027
+    4300038: Cylinder026
+    4300040: Cylinder025
+    4300042: Cylinder024
+    4300044: Cylinder023
+    4300046: Cylinder022
+    4300048: Cylinder021
+    4300050: Cylinder020
+    4300052: Cylinder019
+    4300054: Cylinder018
+    4300056: Cylinder017
+    4300058: Cylinder016
+    4300060: Cylinder015
+    4300062: Cylinder014
+    4300064: Cylinder013
+    4300066: Cylinder012
+    4300068: Cylinder011
+    4300070: Cylinder010
+    4300072: Cylinder009
+    4300074: Cylinder008
+    4300076: Cylinder007
+    4300078: Cylinder006
+    4300080: Cylinder005
+    4300082: Cylinder004
+    4300084: Cylinder003
+    4300086: Cylinder002
+    4300088: Cylinder001
+    4300090: Box010
+    4300092: Box009
+    4300094: Box008
+    4300096: Box007
+    4300098: Box006
+    4300100: Box005
+    4300102: Box004
+    4300104: Box003
+    4300106: Box002
+    4300108: Box001
+    6400000: Box001
+    6400002: Box002
+    6400004: Box003
+    6400006: Box004
+    6400008: Box005
+    6400010: Box006
+    6400012: Box007
+    6400014: Box008
+    6400016: Box009
+    6400018: Box010
+    6400020: Box011
+    6400022: Box012
+    6400024: Box013
+    6400026: Cylinder001
+    6400028: Cylinder002
+    6400030: Cylinder003
+    6400032: Cylinder004
+    6400034: Cylinder005
+    6400036: Cylinder006
+    6400038: Cylinder007
+    6400040: Cylinder008
+    6400042: Cylinder009
+    6400044: Cylinder010
+    6400046: Cylinder011
+    6400048: Cylinder012
+    6400050: Cylinder013
+    6400052: Cylinder014
+    6400054: Cylinder015
+    6400056: Cylinder016
+    6400058: Cylinder017
+    6400060: Cylinder018
+    6400062: Cylinder019
+    6400064: Cylinder020
+    6400066: Cylinder021
+    6400068: Cylinder022
+    6400070: Cylinder023
+    6400072: Cylinder024
+    6400074: Cylinder025
+    6400076: Cylinder026
+    6400078: Cylinder027
+    6400080: Cylinder028
+    6400082: Cylinder029
+    6400084: Cylinder030
+    6400086: Cylinder031
+    6400088: Cylinder032
+    6400090: Cylinder033
+    6400092: Cylinder034
+    6400094: Cylinder035
+    6400096: Cylinder036
+    6400098: Cylinder037
+    6400100: Cylinder038
+    6400102: Cylinder039
+    6400104: Cylinder040
+    6400106: hinge
+    6400108: hinge001
+    7400000: dooropen
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 88f94c5e52e57bf489947a772b3ce1d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dark metal
+    second: {fileID: 2100000, guid: 9a2209fd6a8440e4796b38c89df62437, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: darker wood planks
+    second: {fileID: 2100000, guid: d0e2266d8d9bc584b93fd1aae4f5ead1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light metal
+    second: {fileID: 2100000, guid: 201fda6a6661bd941a8ae7d91303cc06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lighter wood planks
+    second: {fileID: 2100000, guid: 67065f802ca54794f8da03f4ef7f9a47, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dark metal
+    second: {fileID: 2800000, guid: 4dcbffc799f6a9142a21c90b0fa762fe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: darker wood planks
+    second: {fileID: 2800000, guid: 7bb9a2364451035478f60cff6627fa41, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: light metal
+    second: {fileID: 2800000, guid: 137a4a4ca6e439f4fa5948473f564d8d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lighter wood planks
+    second: {fileID: 2800000, guid: ce64ea55b2c48354cb13f68a6312e238, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: dooropen
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
