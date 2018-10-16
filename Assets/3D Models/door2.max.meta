@@ -136,6 +136,21 @@ ModelImporter:
     100260: Box031
     100262: Box032
     100264: Box033
+    100266: Arc004
+    100268: Arc006
+    100270: Arc007
+    100272: Box034
+    100274: Box035
+    100276: Box036
+    100278: Cylinder076
+    100280: Cylinder077
+    100282: Cylinder078
+    100284: Cylinder079
+    100286: Cylinder080
+    100288: Cylinder081
+    100290: Cylinder082
+    100292: Cylinder083
+    100294: Cylinder084
     400000: Box001
     400002: Box002
     400004: Box003
@@ -269,6 +284,21 @@ ModelImporter:
     400260: Box031
     400262: Box032
     400264: Box033
+    400266: Arc004
+    400268: Arc006
+    400270: Arc007
+    400272: Box034
+    400274: Box035
+    400276: Box036
+    400278: Cylinder076
+    400280: Cylinder077
+    400282: Cylinder078
+    400284: Cylinder079
+    400286: Cylinder080
+    400288: Cylinder081
+    400290: Cylinder082
+    400292: Cylinder083
+    400294: Cylinder084
     2100000: No Name
     2100002: dark metal
     2100004: light metal
@@ -398,6 +428,19 @@ ModelImporter:
     2300242: Box031
     2300244: Box032
     2300246: Box033
+    2300248: Arc007
+    2300250: Box034
+    2300252: Box035
+    2300254: Box036
+    2300256: Cylinder076
+    2300258: Cylinder077
+    2300260: Cylinder078
+    2300262: Cylinder079
+    2300264: Cylinder080
+    2300266: Cylinder081
+    2300268: Cylinder082
+    2300270: Cylinder083
+    2300272: Cylinder084
     3300000: Box001
     3300002: Box002
     3300004: Box003
@@ -522,6 +565,19 @@ ModelImporter:
     3300242: Box031
     3300244: Box032
     3300246: Box033
+    3300248: Arc007
+    3300250: Box034
+    3300252: Box035
+    3300254: Box036
+    3300256: Cylinder076
+    3300258: Cylinder077
+    3300260: Cylinder078
+    3300262: Cylinder079
+    3300264: Cylinder080
+    3300266: Cylinder081
+    3300268: Cylinder082
+    3300270: Cylinder083
+    3300272: Cylinder084
     4300000: Box011
     4300002: Box012
     4300004: Box013
@@ -646,6 +702,19 @@ ModelImporter:
     4300242: Box031
     4300244: Box032
     4300246: Box033
+    4300248: Cylinder076
+    4300250: Cylinder077
+    4300252: Cylinder078
+    4300254: Cylinder079
+    4300256: Cylinder080
+    4300258: Cylinder081
+    4300260: Box034
+    4300262: Box035
+    4300264: Box036
+    4300266: Arc007
+    4300268: Cylinder082
+    4300270: Cylinder083
+    4300272: Cylinder084
     7400000: Take 001
     9500000: //RootNode
   externalObjects: {}
