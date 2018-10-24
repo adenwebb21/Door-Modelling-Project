@@ -145,6 +145,26 @@ ModelImporter:
     100278: Cylinder082
     100280: Cylinder083
     100282: Cylinder084
+    100284: Bolt
+    100286: Bolt handle
+    100288: Bolt hardware
+    100290: Bookcase
+    100292: Cell window
+    100294: Curtain with Pole
+    100296: Door
+    100298: Door bar
+    100300: Door frame
+    100302: Door side of latch hardware
+    100304: Frame side bolt hardware
+    100306: Frame side of latch hardware
+    100308: Lantern
+    100310: Latch hinge
+    100312: Minor door frame
+    100314: Padlock
+    100316: Padlock body
+    100318: Padlock holder
+    100320: Table
+    100322: Top hinge
     400000: Arc001
     400002: Arc003
     400004: bolt
@@ -287,11 +307,43 @@ ModelImporter:
     400278: Cylinder082
     400280: Cylinder083
     400282: Cylinder084
+    400284: Bolt
+    400286: Bolt handle
+    400288: Bolt hardware
+    400290: Bookcase
+    400292: Cell window
+    400294: Curtain with Pole
+    400296: Door
+    400298: Door bar
+    400300: Door frame
+    400302: Door side of latch hardware
+    400304: Frame side bolt hardware
+    400306: Frame side of latch hardware
+    400308: Lantern
+    400310: Latch hinge
+    400312: Minor door frame
+    400314: Padlock
+    400316: Padlock body
+    400318: Padlock holder
+    400320: Table
+    400322: Top hinge
     2100000: No Name
     2100002: dark metal
     2100004: light metal
     2100006: lighter wood planks
     2100008: darker wood planks
+    2100010: Doorframe
+    2100012: Dark metal
+    2100014: Screws
+    2100016: Light metal
+    2100018: Stone brick wall
+    2100020: Lighter wood
+    2100022: Brassy metal
+    2100024: Darker wood
+    2100026: Curtain
+    2100028: Books
+    2100030: Cast iron
+    2100032: Frosted Glass
     2300000: Arc001
     2300002: Arc003
     2300004: bottom hinge
@@ -423,6 +475,27 @@ ModelImporter:
     2300256: Cylinder082
     2300258: Cylinder083
     2300260: Cylinder084
+    2300262: Bolt
+    2300264: Bolt handle
+    2300266: Bolt hardware
+    2300268: Bookcase
+    2300270: Cell window
+    2300272: Curtain with Pole
+    2300274: Door
+    2300276: Door bar
+    2300278: Door bar holders
+    2300280: Door frame
+    2300282: Door side of latch hardware
+    2300284: Frame side bolt hardware
+    2300286: Frame side of latch hardware
+    2300288: Lantern
+    2300290: Latch hinge
+    2300292: Minor door frame
+    2300294: Padlock
+    2300296: Padlock body
+    2300298: Padlock holder
+    2300300: Table
+    2300302: Top hinge
     3300000: Arc001
     3300002: Arc003
     3300004: bottom hinge
@@ -554,6 +627,27 @@ ModelImporter:
     3300256: Cylinder082
     3300258: Cylinder083
     3300260: Cylinder084
+    3300262: Bolt
+    3300264: Bolt handle
+    3300266: Bolt hardware
+    3300268: Bookcase
+    3300270: Cell window
+    3300272: Curtain with Pole
+    3300274: Door
+    3300276: Door bar
+    3300278: Door bar holders
+    3300280: Door frame
+    3300282: Door side of latch hardware
+    3300284: Frame side bolt hardware
+    3300286: Frame side of latch hardware
+    3300288: Lantern
+    3300290: Latch hinge
+    3300292: Minor door frame
+    3300294: Padlock
+    3300296: Padlock body
+    3300298: Padlock holder
+    3300300: Table
+    3300302: Top hinge
     4300000: door frame right
     4300002: door frame left
     4300004: door frame top
@@ -685,6 +779,27 @@ ModelImporter:
     4300256: Cylinder082
     4300258: Cylinder083
     4300260: Cylinder084
+    4300262: Door frame
+    4300264: Top hinge
+    4300266: Padlock holder
+    4300268: Bolt hardware
+    4300270: Bolt
+    4300272: Bolt handle
+    4300274: Door
+    4300276: Door bar
+    4300278: Padlock
+    4300280: Padlock body
+    4300282: Minor door frame
+    4300284: Table
+    4300286: Cell window
+    4300288: Curtain with Pole
+    4300290: Bookcase
+    4300292: Lantern
+    4300294: Door bar holders
+    4300296: Frame side of latch hardware
+    4300298: Latch hinge
+    4300300: Door side of latch hardware
+    4300302: Frame side bolt hardware
     7400000: Take 001
     9500000: //RootNode
   externalObjects: {}
