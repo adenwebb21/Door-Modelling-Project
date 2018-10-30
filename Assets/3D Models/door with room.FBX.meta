@@ -830,7 +830,72 @@ ModelImporter:
     6400042: Walls
     7400000: Take 001
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Books
+    second: {fileID: 2100000, guid: 6979da0bc250bb845b3e66811ea4c336, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brassy metal
+    second: {fileID: 2100000, guid: eddcefc3a67e06d48a51899d7e090a8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cast iron
+    second: {fileID: 2100000, guid: b0b545f0230f52a438c13c772ba94ff4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Curtain
+    second: {fileID: 2100000, guid: 10949b47a1abde04cbd0a93eda06982a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark metal
+    second: {fileID: 2100000, guid: 1b4d870c8e5082c4bb91a813c2da2a6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Darker wood
+    second: {fileID: 2100000, guid: a8b9c353868b9384196b1cfe9c9b6e25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Doorframe
+    second: {fileID: 2100000, guid: 98934bd18843e494ba6c50717ef36c0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor
+    second: {fileID: 2100000, guid: 6f0604c44ef475541bf270a9a03dd1b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Frosted Glass
+    second: {fileID: 2100000, guid: f1b427dfed3188548a6b2bb77de81bbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light metal
+    second: {fileID: 2100000, guid: b1e9bde7fdca1ab4680390b588f121cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lighter wood
+    second: {fileID: 2100000, guid: 86325a26326678a41bbb15913a63a658, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Screws
+    second: {fileID: 2100000, guid: 62d4722255752fd4e95e4ffbfbed37bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone brick wall
+    second: {fileID: 2100000, guid: 02b3f83daf2c0bc4da225986a09658d9, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
