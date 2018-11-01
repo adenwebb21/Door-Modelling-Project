@@ -60,7 +60,7 @@ LightmapSettings:
     m_BakeResolution: 20
     m_AtlasSize: 512
     m_AO: 1
-    m_AOMaxDistance: 4.68
+    m_AOMaxDistance: 0.24
     m_CompAOExponent: 2.55
     m_CompAOExponentDirect: 1.66
     m_Padding: 2
@@ -559,7 +559,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 210472293}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -17.13, y: 3.02, z: 10.65}
+  m_LocalPosition: {x: -17.104, y: 3.02, z: 13.683}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -628,7 +628,7 @@ MeshRenderer:
   m_RenderingLayerMask: 4294967295
   m_Materials:
   - {fileID: 2100000, guid: a8b9c353868b9384196b1cfe9c9b6e25, type: 2}
-  - {fileID: 2100000, guid: 1b4d870c8e5082c4bb91a813c2da2a6a, type: 2}
+  - {fileID: 2100000, guid: b449c1410e04f99438797c3cfe4b0e00, type: 2}
   - {fileID: 2100000, guid: 62d4722255752fd4e95e4ffbfbed37bb, type: 2}
   - {fileID: 2100000, guid: 08fa14a087a61fb4483113883c2df63b, type: 2}
   m_StaticBatchInfo:
@@ -788,7 +788,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 2100000, guid: b1e9bde7fdca1ab4680390b588f121cc, type: 2}
+  - {fileID: 2100000, guid: b449c1410e04f99438797c3cfe4b0e00, type: 2}
   - {fileID: 2100000, guid: 62d4722255752fd4e95e4ffbfbed37bb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
@@ -5075,9 +5075,9 @@ ParticleSystem:
       type: 0
       properties: 0
   LightsModule:
-    enabled: 1
-    ratio: 0
-    light: {fileID: 0}
+    enabled: 0
+    ratio: 0.16
+    light: {fileID: 1858381746}
     randomDistribution: 1
     color: 1
     range: 1
@@ -5085,7 +5085,7 @@ ParticleSystem:
     rangeCurve:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 1.9
+      scalar: 132
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -5138,7 +5138,7 @@ ParticleSystem:
     intensityCurve:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 2.09
+      scalar: 0.7
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -7122,7 +7122,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 2100000, guid: b1e9bde7fdca1ab4680390b588f121cc, type: 2}
+  - {fileID: 2100000, guid: b449c1410e04f99438797c3cfe4b0e00, type: 2}
   - {fileID: 2100000, guid: 62d4722255752fd4e95e4ffbfbed37bb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
@@ -7271,7 +7271,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 2100000, guid: 1b4d870c8e5082c4bb91a813c2da2a6a, type: 2}
+  - {fileID: 2100000, guid: b449c1410e04f99438797c3cfe4b0e00, type: 2}
   - {fileID: 2100000, guid: 62d4722255752fd4e95e4ffbfbed37bb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
@@ -7524,11 +7524,11 @@ Light:
   m_Type: 2
   m_Color: {r: 0.8584906, g: 0.58104223, b: 0.23082057, a: 1}
   m_Intensity: 0.97
-  m_Range: 73.64
+  m_Range: 4.97
   m_SpotAngle: 30
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 0
+    m_Type: 2
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 1
@@ -7694,7 +7694,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1803790384}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -16.26, y: 3.69, z: 14.88}
+  m_LocalPosition: {x: -16.26, y: 3.55, z: 14.88}
   m_LocalScale: {x: 8.36, y: 1, z: 17.378096}
   m_Children: []
   m_Father: {fileID: 0}
@@ -7832,7 +7832,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 2100000, guid: 1b4d870c8e5082c4bb91a813c2da2a6a, type: 2}
+  - {fileID: 2100000, guid: b449c1410e04f99438797c3cfe4b0e00, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -7887,6 +7887,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1858381745}
   - component: {fileID: 1858381746}
+  - component: {fileID: 1858381747}
   m_Layer: 0
   m_Name: Point Light (1)
   m_TagString: Untagged
@@ -7917,12 +7918,12 @@ Light:
   serializedVersion: 8
   m_Type: 2
   m_Color: {r: 0.8584906, g: 0.58104223, b: 0.23082057, a: 1}
-  m_Intensity: 2
-  m_Range: 11.36
+  m_Intensity: 1.07
+  m_Range: 28
   m_SpotAngle: 30
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 0
+    m_Type: 2
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 1
@@ -7943,6 +7944,17 @@ Light:
   m_UseColorTemperature: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+--- !u!114 &1858381747
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1858381744}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 934815fdeb4a4454786f0e46e09a6e97, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1907352578
 GameObject:
   m_ObjectHideFlags: 0

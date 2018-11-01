@@ -172,6 +172,7 @@ ModelImporter:
     100332: Table
     100334: Top hinge
     100336: Walls
+    100338: Plane001
     400000: Box001
     400002: Box002
     400004: Box003
@@ -341,6 +342,7 @@ ModelImporter:
     400332: Table
     400334: Top hinge
     400336: Walls
+    400338: Plane001
     2100000: No Name
     2100002: dark metal
     2100004: light metal
@@ -518,6 +520,7 @@ ModelImporter:
     2300312: Table
     2300314: Top hinge
     2300316: Walls
+    2300318: Plane001
     3300000: Box001
     3300002: Box002
     3300004: Box003
@@ -677,6 +680,7 @@ ModelImporter:
     3300312: Table
     3300314: Top hinge
     3300316: Walls
+    3300318: Plane001
     4300000: Box011
     4300002: Box012
     4300004: Box013
@@ -836,6 +840,7 @@ ModelImporter:
     4300312: Door side of latch hardware
     4300314: Frame side bolt hardware
     4300316: Walls
+    4300318: Plane001
     7400000: Take 001
     9500000: //RootNode
   externalObjects: {}
