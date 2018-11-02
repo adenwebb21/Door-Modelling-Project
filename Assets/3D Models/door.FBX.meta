@@ -60,6 +60,7 @@ ModelImporter:
     100108: door
     100110: hinge
     100112: hinge001
+    100114: Door
     400000: Box001
     400002: Box002
     400004: Box003
@@ -117,11 +118,16 @@ ModelImporter:
     400108: //RootNode
     400110: hinge
     400112: hinge001
+    400114: Door
     2100000: No Name
     2100002: dark metal
     2100004: light metal
     2100006: lighter wood planks
     2100008: darker wood planks
+    2100010: Darker wood
+    2100012: Dark metal
+    2100014: Stone brick wall
+    2100016: Lighter wood
     2300000: Box001
     2300002: Box002
     2300004: Box003
@@ -177,6 +183,7 @@ ModelImporter:
     2300104: Cylinder040
     2300106: hinge
     2300108: hinge001
+    2300110: Door
     3300000: Box001
     3300002: Box002
     3300004: Box003
@@ -232,6 +239,7 @@ ModelImporter:
     3300104: Cylinder040
     3300106: hinge
     3300108: hinge001
+    3300110: Door
     4300000: Box011
     4300002: Box012
     4300004: Box013
@@ -287,6 +295,7 @@ ModelImporter:
     4300104: Box003
     4300106: Box002
     4300108: Box001
+    4300110: Door
     6400000: Box001
     6400002: Box002
     6400004: Box003
@@ -342,6 +351,7 @@ ModelImporter:
     6400104: Cylinder040
     6400106: hinge
     6400108: hinge001
+    6400110: Door
     7400000: dooropen
     9500000: //RootNode
   externalObjects:
