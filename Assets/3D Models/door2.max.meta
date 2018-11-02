@@ -173,6 +173,10 @@ ModelImporter:
     100334: Top hinge
     100336: Walls
     100338: Plane001
+    100340: Plane002
+    100342: Wind001
+    100344: Plane003
+    100346: Plane004
     400000: Box001
     400002: Box002
     400004: Box003
@@ -343,6 +347,10 @@ ModelImporter:
     400334: Top hinge
     400336: Walls
     400338: Plane001
+    400340: Plane002
+    400342: Wind001
+    400344: Plane003
+    400346: Plane004
     2100000: No Name
     2100002: dark metal
     2100004: light metal
@@ -521,6 +529,9 @@ ModelImporter:
     2300314: Top hinge
     2300316: Walls
     2300318: Plane001
+    2300320: Plane002
+    2300322: Plane003
+    2300324: Plane004
     3300000: Box001
     3300002: Box002
     3300004: Box003
@@ -681,6 +692,9 @@ ModelImporter:
     3300314: Top hinge
     3300316: Walls
     3300318: Plane001
+    3300320: Plane002
+    3300322: Plane003
+    3300324: Plane004
     4300000: Box011
     4300002: Box012
     4300004: Box013
@@ -841,6 +855,9 @@ ModelImporter:
     4300314: Frame side bolt hardware
     4300316: Walls
     4300318: Plane001
+    4300320: Plane002
+    4300322: Plane003
+    4300324: Plane004
     7400000: Take 001
     9500000: //RootNode
   externalObjects: {}
