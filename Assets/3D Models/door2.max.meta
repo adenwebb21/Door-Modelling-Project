@@ -177,6 +177,8 @@ ModelImporter:
     100342: Wind001
     100344: Plane003
     100346: Plane004
+    100348: Object001
+    100350: Plane005
     400000: Box001
     400002: Box002
     400004: Box003
@@ -351,6 +353,8 @@ ModelImporter:
     400342: Wind001
     400344: Plane003
     400346: Plane004
+    400348: Object001
+    400350: Plane005
     2100000: No Name
     2100002: dark metal
     2100004: light metal
@@ -532,6 +536,7 @@ ModelImporter:
     2300320: Plane002
     2300322: Plane003
     2300324: Plane004
+    2300326: Plane005
     3300000: Box001
     3300002: Box002
     3300004: Box003
@@ -695,6 +700,7 @@ ModelImporter:
     3300320: Plane002
     3300322: Plane003
     3300324: Plane004
+    3300326: Plane005
     4300000: Box011
     4300002: Box012
     4300004: Box013
@@ -858,6 +864,7 @@ ModelImporter:
     4300320: Plane002
     4300322: Plane003
     4300324: Plane004
+    4300326: Plane005
     7400000: Take 001
     9500000: //RootNode
   externalObjects: {}
